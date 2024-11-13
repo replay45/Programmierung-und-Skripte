@@ -1,5 +1,6 @@
-# Ducky Script, OMG-Cable & HackRF
+# Programmierung und Skripte
 
+## Ducky Script & OMG-Cable
 
 Die Ducky Skripte sollen veranschaulichen, was die Folgen von Unachtsamkeit bei der Nutzung von fremden USB-Kabeln/Geräten sein können.
 
@@ -13,8 +14,6 @@ Für Demonstrationen kann man auf dem entsprechenden Testsystem auch einfach das
 Die Skripte aus diesem Repository haben am Anfang einige Hinweise und Kommentare (REM) zu dem Skript, die beachtet werden sollten.
 Eine Übersicht mit einigen nützlichen Befehlen ist ebenfalls in diesem Repository.
 
-
-Außerdem finden sich Anleitungen zum HackRF one, sowie zum HackRF im PortaPack.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,11 +34,3 @@ Die Nutzung von Funkfrequenzen (RF) unterliegt den Gesetzen des jeweiligen Lande
 [OMG Cable](https://shop.hak5.org/collections/omg-bfcm/products/omg-cable)
 
 [Setup OMG Cable](https://o.mg.lol/)
-
-
-
-> HackRF One
-
-[HackRF One](https://greatscottgadgets.com/hackrf/one/)
-
-[HackRF Product Line](https://greatscottgadgets.com/hackrf/)
