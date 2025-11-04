@@ -1,8 +1,6 @@
 # Programmierung und Skripte
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### Disclaimer
 Alle folgenden Informationen und Anleitungen in diesem Repository sind ausschließlich für ethical Hacking und Bildungszwecke !
 Die Informationen und Anleitungen sind verantwortungsbewusst und nur für legale Zwecke zu nutzen.
