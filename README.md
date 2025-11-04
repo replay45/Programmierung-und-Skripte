@@ -13,10 +13,15 @@ Die Nutzung von Funkfrequenzen (RF) unterliegt den Gesetzen des jeweiligen Lande
 
 
 ### Links
-> hak5
 
-[hak5 - Shop](https://shop.hak5.org/)
+> Python
 
-[OMG Cable](https://shop.hak5.org/collections/omg-bfcm/products/omg-cable)
+[Python](https://www.python.org/) / [Python - Wikipedia](https://de.wikipedia.org/wiki/Python_(Programmiersprache))
 
-[Setup OMG Cable](https://o.mg.lol/)
+> Java
+
+[Java](https://www.java.com/) / [Java - Wikipedia](https://de.wikipedia.org/wiki/Java_(Programmiersprache))
+
+> Entwicklungsumgebungen
+
+[VS-Code](https://code.visualstudio.com/) / [IntelliJ IDEA](https://www.jetbrains.com/idea/) / [Eclipse](https://www.eclipse.org/)
